@@ -8,8 +8,7 @@ canonical_link: "https://medium.com/@kyle-t-jones/factorial-designs-for-causal-i
 # Factorial Designs for Causal Inference in Econometric Analysis of Public Policy Public policy interventions often include multiple interacting
 components. A job training program might combine skills workshops...
 
-### **Factorial Designs for Causal Inference in Econometric Analysis of Public Policy**
-Public policy interventions often include multiple interacting components. A job training program might combine skills workshops, mentorship, and placement support. A safety initiative might pair policing strategies with community outreach. Policymakers need to know not just whether each component works, but how they work in combination.
+### Factorial Designs for Causal Inference in Econometric Analysis of Public PolicyPublic policy interventions often include multiple interacting components. A job training program might combine skills workshops, mentorship, and placement support. A safety initiative might pair policing strategies with community outreach. Policymakers need to know not just whether each component works, but how they work in combination.
 
 Factorial designs offer a method for testing these combinations systematically. They evaluate multiple factors at once, measuring both main effects --- the independent impact of each factor --- and interaction effects, where the effect of one factor depends on another. This approach moves beyond isolated trials, uncovering patterns that reflect the complexity of real-world programs.
 
@@ -18,13 +17,11 @@ To demonstrate this method, consider transportation employment policy. Suppose a
 ### Example: Rail Employment as a Case Study
 We constructed a 2×2 factorial design using public data on U.S. rail transportation employment:
 
-**Factor A: Season**
-
+Factor A: Season
 - Winter (December--February)
 - Summer (June--August)
 
-**Factor B: Economic Period**
-
+Factor B: Economic Period
 - Pre-Recession (2007--2008)
 - Post-Recession (2020--2021)
 

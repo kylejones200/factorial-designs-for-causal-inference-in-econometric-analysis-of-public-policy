@@ -1,7 +1,7 @@
 # Factorial Designs for Causal Inference in Econometric Analysis of Public Policy
 
-**Published:** 2025-04-23
-**Medium:** [https://medium.com/@kyle-t-jones/factorial-designs-for-causal-inference-in-econometric-analysis-of-public-policy-ef978b229bc9](https://medium.com/@kyle-t-jones/factorial-designs-for-causal-inference-in-econometric-analysis-of-public-policy-ef978b229bc9)
+Published: 2025-04-23
+Medium: [https://medium.com/@kyle-t-jones/factorial-designs-for-causal-inference-in-econometric-analysis-of-public-policy-ef978b229bc9](https://medium.com/@kyle-t-jones/factorial-designs-for-causal-inference-in-econometric-analysis-of-public-policy-ef978b229bc9)
 
 ## About
 
